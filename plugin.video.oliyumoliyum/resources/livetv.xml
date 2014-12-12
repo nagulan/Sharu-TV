@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <categories>
    <category name='Masala'>
-      <channel name='Sun Tv EU'>
-         <url>http://88.150.177.146/1-Sun/mystream.m3u8</url>
+      <channel name='kamudy Tv EU'>
+         <url>rtmp://50.7.175.252:1940/base2 playpath=asia11.stream token=Vu4KaBzaxa swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kaumudy-tv-live</url>
          <thumb>http://www.lyngsat-logo.com/hires/ss/sun_tv_us.png</thumb>
       </channel>
 
